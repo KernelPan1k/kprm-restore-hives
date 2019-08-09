@@ -1,0 +1,3 @@
+# kprm-restore-hives
+
+- This script restores the registry backups made by KPRM and is available in the KpRescueLive LiveCD
